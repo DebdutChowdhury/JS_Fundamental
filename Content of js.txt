@@ -1,0 +1,21 @@
+Lexical scoping
+Function currying,
+Function chaining
+Function closer
+ES 6 features (Echma Script)
+Call back and Promises 
+Hoisting, not web hosting
+Prototypes
+Apply and Bind (One One example)
+1Read about V8 engine
+Clone of object
+Array and Array Methods
+To string, map , pushing, popping, (Array methods of JS),
+Parse int
+Arithmetic Operators,
+Inbuild data types
+Call, Apply and Bind (One One example)
+Inbuilt data structure
+
+prototypes:
+    call apply and bind function
