@@ -1,13 +1,11 @@
-const Person = (fst, lst, age, bdate) => {
-    this.fstname = fst;
-    this.lstname = lst;
-    this.age = age;
-    this.bdate = bdate;
+let Mobile = function(model_num) {
+    this.model = model_num;
+    this.price = 5000;
 }
 
-Person.prototype.name = function(){
-    return this.fstname + " " + this.lstname;
-};
-
-let myfather = new Person("Vishal", "Kumar", 34, 2005);
-console.log("My father is " + myfather.name());
+let samsung = new Mobile('Galaxy');
+let realme = new Mobile('Note');
+// samsung.color = 'black'
+Mobile.prototype.color = 'black';
+console.log(samsung);
+console.log(realme);
